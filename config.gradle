@@ -66,9 +66,8 @@ ext {
             websocket                    : 'org.java-websocket:Java-WebSocket:1.4.0',
             circleprogress               : 'com.github.lzyzsd:circleprogress:1.2.1',
             greendao                     : 'org.greenrobot:greendao:3.2.2',
-
             butterknife                  : 'com.jakewharton:butterknife:8.5.1',
-            butterknife - compiler       : 'com.jakewharton:butterknife-compiler:8.5.1'
+            butterknife_compiler         : 'com.jakewharton:butterknife-compiler:8.5.1'
 
 
     ]

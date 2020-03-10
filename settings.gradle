@@ -1,1 +1,2 @@
-include ':app',':lib-utils',':base',':lib_rtmp'
+include ':app',':lib-utils',':base',':lib_rtmp','vitamio'
+include ':lib-player'
