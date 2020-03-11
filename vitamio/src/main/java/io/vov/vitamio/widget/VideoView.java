@@ -242,7 +242,8 @@ public class VideoView extends SurfaceView implements MediaController.MediaPlaye
   private OnInfoListener mInfoListener = new OnInfoListener() {
     @Override
     public boolean onInfo(MediaPlayer mp, int what, int extra) {
-      Log.d("onInfo: (%d, %d)", what, extra);
+      Log.d(
+              "onInfo: (%d, %d)", what, extra);
     	
       	if(MediaPlayer.MEDIA_INFO_UNKNOW_TYPE == what){
     		Log.e(" VITAMIO--TYPE_CHECK  stype  not include  onInfo mediaplayer unknow type ");
