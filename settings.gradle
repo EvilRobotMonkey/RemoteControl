@@ -1,2 +1,2 @@
-include ':app',':lib-utils',':base',':lib_rtmp','vitamio'
+include ':app', ':lib-utils', ':base', ':lib_rtmp', 'vitamio', ':lib-net'
 include ':lib-player'
