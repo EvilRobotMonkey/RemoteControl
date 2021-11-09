@@ -1,1 +1,1 @@
-# ndk-demo
+# android 远程控制
